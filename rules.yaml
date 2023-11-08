@@ -1,4 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripe.network
   - DOMAIN-SUFFIX,x.ai
